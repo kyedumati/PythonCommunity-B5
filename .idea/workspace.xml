@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbe3547b-540c-4cbf-bbf2-73bdff0a11f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EC4B2RJI4szO7Pv64ljPVDxlws" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.iterative_statements">
+    <configuration name="Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flow_control" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="input_output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_output.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterative_statements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterative_statements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="keyword_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keyword_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.iterative_statements" />
+        <item itemvalue="Python.flow_control" />
+        <item itemvalue="Python.keyword_test" />
+        <item itemvalue="Python.input_output" />
+        <item itemvalue="Python.Operator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbe3547b-540c-4cbf-bbf2-73bdff0a11f5" name="Default Changelist" comment="" />
+      <created>1662086092938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662086092938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="13" key="#keyword" timestamp="1662087078369">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="409" y="13" key="#keyword/0.0.1366.720@0.0.1366.720" timestamp="1662087078369" />
+    <state x="300" y="82" key="#xdebugger.evaluate" timestamp="1663727198506">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="300" y="82" key="#xdebugger.evaluate/0.0.1366.720@0.0.1366.720" timestamp="1663727198506" />
+    <state width="1345" height="216" key="GridCell.Tab.0.bottom" timestamp="1663810272892">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="216" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1663810272892" />
+    <state width="1345" height="216" key="GridCell.Tab.0.center" timestamp="1663810272891">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="216" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1663810272891" />
+    <state width="1345" height="216" key="GridCell.Tab.0.left" timestamp="1663810272889">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="216" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1663810272889" />
+    <state width="1345" height="216" key="GridCell.Tab.0.right" timestamp="1663810272891">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="216" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1663810272891" />
+    <state width="1345" height="199" key="GridCell.Tab.1.bottom" timestamp="1663728152328">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1663728152328" />
+    <state width="1345" height="199" key="GridCell.Tab.1.center" timestamp="1663728152328">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1663728152328" />
+    <state width="1345" height="199" key="GridCell.Tab.1.left" timestamp="1663728152328">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1663728152328" />
+    <state width="1345" height="199" key="GridCell.Tab.1.right" timestamp="1663728152328">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1663728152328" />
+    <state x="391" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1663638757348">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="391" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1663638757348" />
+    <state x="346" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1662602525844">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="346" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1366.720@0.0.1366.720" timestamp="1662602525844" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flow_control.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
