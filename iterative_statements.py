@@ -86,9 +86,101 @@
 
 # inner for loop
 # we want to print values from list1 and list2
-list1=[1,2,3,4]   # 4 times
-list2=[10,20,30,40]  # 4 times
-# 4*4
-for i in list1:  # 1 2
-    for j in list2:  # 10 20 30 40
-        print("value from outer for is ",i," and outer for is ",j)
+# list1=[1,2,3,4]   # 4 times
+# list2=[10,20,30,40]  # 4 times
+# # 4*4
+# for i in list1:  # 1 2
+#     for j in list2:  # 10 20 30 40
+#         print("value from outer for is ",i," and outer for is ",j)
+
+
+# Pattern programs
+# write a program to display * in right angled traingled format
+# 1 3 5 7 ? 11   --> 9
+# output
+# hint -> we need to print * only
+# we need to print in 5 lines
+# we need to decide based on line numbers how many stars to print
+# saperating every start with space
+'''
+*
+* *
+* * *
+* * * *
+* * * * *
+'''
+# for i in range(1,6):  #     # i=1
+#     for j in range(1,i+1):  # j=1
+#         print("*",end=" ")
+#     print()   # new line
+
+
+# write a program to display numbers in right angled traingled format
+# 5lines
+# every line we need print numbers based on the line number
+# saperating every digit with space
+'''
+1
+1 2 
+1 2 3
+1 2 3 4 
+1 2 3 4 5
+'''
+
+# for i in range(1,6):
+#     for j in range(1,i+1):
+#         print(j,end=" ")
+#     print()
+
+# 5lines
+# every line we need print numbers based on the line number
+# saperating every digit with space
+'''
+1
+2 2  
+3 3 3
+4 4 4 4 
+5 5 5 5 5
+'''
+# for i in range(1,6):         # 1 2
+#     for j in range(1,i+1):  # 1,2  --> 1
+#                             # 1,3  --> 2
+#         print(i,end=" ")  # 1                          # 2 2
+#     print()
+
+# 1 2 3     --> skipping 4 and 5 nothing we are stopping
+# 1 2 3 5   --> skipping 4
+# for i in range(1,6): # 1 2 3 4 5
+#     if i>3:
+#         break
+#     print(i)
+# print("after for loop")
+# wickets = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] #
+# if 10 wickets are down then we should print all out
+# for i in wickets:
+#     if i>10:
+#         print("all out=, not allowed to continue the game")
+#         break   # red
+#     print("wicket number ",i," came to bat")
+
+# stations = ["kashmir","pune","banglore","kanyakumari","srilanka"]
+# for station in stations:
+#     if station == "banglore":
+#         continue
+#     print("train is reached to " + station)
+#     if station == "kanyakumari":
+#         print("train has reached to final destination")
+#         #print("train is reached to " + station)
+#         break
+
+# print only odd numbers between 1 to 10 using continue
+# odd --> if number is not devided by 2 that number is called odd number
+# for i in range(1,10):
+#     if i%2==0:  # if value is even skip that value
+#         continue
+#     print(i)
+
+
+
+
+
