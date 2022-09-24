@@ -181,6 +181,61 @@
 #     print(i)
 
 
+# items=[10,20,30,400,50]
+# for i in items:
+#     if i>=100:
+#         print("this can't be processed")
+#         break
+#     print(i)
+# else:
+#     print("all the items are processed successfully")
 
 
+# items=[10,20,30,400,50]
+# for i in items:  # 10
+#     # if i>=100:
+#     #     print("this can't be processed")
+#     print(i)  # 10
+#     break   # it will break the loop
+# else:
+#     print("all the items are processed successfully")
+
+# items=[10,20,30,400,50]
+# for i in items:
+#     print(i)
+#     if i<=10:
+#         continue
+#     else:
+#         break
+# else:
+#     print("for loop is not broken")
+
+# items=[10,20,30,400,50]
+# for i in items:
+#     print(i)
+#     if i<=10:
+#         break
+#     else:
+#         continue
+# else:
+#     print("for loop is not broken")
+
+
+# a=1
+# while a<=10:     # 1 2 3 4 5 6 7 8 9
+#     print(a)
+#     if a>10: # 1 2 3 4 5 6 7 8 9
+#         break
+#     a+=1
+# else:
+#     print("while is successfully executed without breaking")
+
+
+# for i in range(6):
+#     if i<3:
+#         pass
+#     print(i)
+
+# for i in range(6):
+#     pass
 
