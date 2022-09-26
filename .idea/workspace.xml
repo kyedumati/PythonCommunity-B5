@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbe3547b-540c-4cbf-bbf2-73bdff0a11f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_datastructure.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iterative_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterative_statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/running_notes/Flow_Control.png" beforeDir="false" afterPath="$PROJECT_DIR$/running_notes/Flow_Control.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,28 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.iterative_statements">
-    <configuration name="Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonCommunity-5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.list_datastructure">
     <configuration name="flow_control" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCommunity-5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,27 +46,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_control.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="input_output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonCommunity-5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_output.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,13 +96,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="list_datastructure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_datastructure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/train_program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_datastructure" />
+        <item itemvalue="Python.train_program" />
         <item itemvalue="Python.iterative_statements" />
         <item itemvalue="Python.flow_control" />
         <item itemvalue="Python.keyword_test" />
-        <item itemvalue="Python.input_output" />
-        <item itemvalue="Python.Operator" />
       </list>
     </recent_temporary>
   </component>
@@ -168,12 +166,27 @@
       <option name="project" value="LOCAL" />
       <updated>1663815987706</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="iterative statements">
+      <created>1663902602814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663902602815</updated>
+    </task>
+    <task id="LOCAL-00003" summary="iterative statements3">
+      <created>1664016203481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664016203482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iterative statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="iterative statements" />
+    <MESSAGE value="iterative statements3" />
+    <option name="LAST_COMMIT_MESSAGE" value="iterative statements3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="13" key="#keyword" timestamp="1662087078369">
@@ -184,50 +197,50 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="300" y="82" key="#xdebugger.evaluate/0.0.1366.720@0.0.1366.720" timestamp="1663727198506" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1663815986417">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1664016202630">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1663815986417" />
-    <state width="1345" height="213" key="GridCell.Tab.0.bottom" timestamp="1663902223687">
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1664016202630" />
+    <state width="1345" height="252" key="GridCell.Tab.0.bottom" timestamp="1664161739039">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="213" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1663902223687" />
-    <state width="1345" height="213" key="GridCell.Tab.0.center" timestamp="1663902223687">
+    <state width="1345" height="252" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1664161739039" />
+    <state width="1345" height="252" key="GridCell.Tab.0.center" timestamp="1664161739038">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="213" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1663902223687" />
-    <state width="1345" height="213" key="GridCell.Tab.0.left" timestamp="1663902223687">
+    <state width="1345" height="252" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1664161739038" />
+    <state width="1345" height="252" key="GridCell.Tab.0.left" timestamp="1664161739038">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="213" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1663902223687" />
-    <state width="1345" height="213" key="GridCell.Tab.0.right" timestamp="1663902223687">
+    <state width="1345" height="252" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1664161739038" />
+    <state width="1345" height="252" key="GridCell.Tab.0.right" timestamp="1664161739039">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="213" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1663902223687" />
-    <state width="1345" height="226" key="GridCell.Tab.1.bottom" timestamp="1663901347916">
+    <state width="1345" height="252" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1664161739039" />
+    <state width="1345" height="331" key="GridCell.Tab.1.bottom" timestamp="1664158014112">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1663901347916" />
-    <state width="1345" height="226" key="GridCell.Tab.1.center" timestamp="1663901347916">
+    <state width="1345" height="331" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1664158014112" />
+    <state width="1345" height="331" key="GridCell.Tab.1.center" timestamp="1664158014112">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1663901347916" />
-    <state width="1345" height="226" key="GridCell.Tab.1.left" timestamp="1663901347916">
+    <state width="1345" height="331" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1664158014112" />
+    <state width="1345" height="331" key="GridCell.Tab.1.left" timestamp="1664158014112">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1663901347916" />
-    <state width="1345" height="226" key="GridCell.Tab.1.right" timestamp="1663901347916">
+    <state width="1345" height="331" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1664158014112" />
+    <state width="1345" height="331" key="GridCell.Tab.1.right" timestamp="1664158014112">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="226" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1663901347916" />
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1663815995276">
+    <state width="1345" height="331" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1664158014112" />
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1664016205159">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1663815995276" />
-    <state x="391" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1663638757348">
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1664016205159" />
+    <state x="391" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1664157174425">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="391" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1663638757348" />
+    <state x="391" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1664157174425" />
     <state x="252" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1663900308888">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
@@ -259,6 +272,16 @@
           <url>file://$PROJECT_DIR$/iterative_statements.py</url>
           <line>152</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterative_statements.py</url>
+          <line>224</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterative_statements.py</url>
+          <line>238</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
