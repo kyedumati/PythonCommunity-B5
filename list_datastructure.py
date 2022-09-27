@@ -74,4 +74,65 @@ ls = [10,20,30,10,40,30,30]
 # print(batsmen)
 # batsmen.remove('yuvraj') # if the given item is not present the it returns ValueError
 
-# pop()
+# pop()  --> It removes and returns the last element of the list
+# this is the only function which manipulates the list and returns some element
+# choclates =['fivestar','asha','dairy milk','munch','kitkat']
+# print(choclates)
+# print(choclates.pop())
+# print(choclates)
+# print(choclates.pop())
+# print(choclates)
+# print(choclates.pop())
+# print(choclates.pop())
+# print(choclates.pop())
+# print(choclates)
+# if len(choclates)>0:   #
+#     print(choclates.pop())  # if the list is empty then pop() return IndexError
+# else:
+#     print("choclates is empty you cannot pop")
+# i = choclates.index('dairy milk')
+# print(choclates.pop(i))  # this will accept index and returns and removes given index element
+# print(choclates)
+
+#
+n= [10,5,20,3]
+# [3,5,10,20]   # ascending order --> from low to high
+# [20,10,5,3]   # descening order --> from high to low
+# print(n)
+# reverse() --> used to reverse order of elements
+# n.reverse()  # no matter what are the vlaues list contains, it will simple reverse the list
+# print(n[::-1])
+# print(n)
+
+# sort() -->
+# in list by default insertion order is preserved, if we want to sort the elements of list according to natural sorting order
+# then we should go for sort() function
+# n.sort()  --> to sort the values in ascending order
+n.sort(reverse=True)     #--> to sort the value in descedning order
+# n.reverse()
+print(n)
+# For numbers --> Default natural soring order is Ascending order
+# For string -->  default natural soring order is Alphabetiacal Order
+s=["Grapes","Banana","Apple","Pineapple","Apbc"]
+s.sort()
+# s.sort(reverse=True)
+print(s)
+s.clear()   # all the elements it removes at a time
+print(s)
+# Note : To use sort(), it is compulsory list should contain only homegenious elements otherwise it will return TypeError
+
+
+
+'''
+*        --> 1 
+* *          
+*        --> 3
+* *  
+*        --> 5
+'''
+for i in range(5):
+    if(i%2 == 0):
+        print("*")
+    else:
+        print("* *")
+    # for j in range
