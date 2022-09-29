@@ -58,7 +58,7 @@ ls = [10,20,30,10,40,30,30]
 # cricketers =[]
 # batsmen =['dhoni','rohit','kohli']
 # bowlers = ['bumrah','shami','chahal']
-#cricketers.extend(batsmen)
+# cricketers.extend(batsmen)
 # #cricketers.extend(bowlers)  # ['dhoni', 'rohit', 'kohli', 'bumrah', 'shami', 'chahal']
 # cricketers.append(batsmen)
 # cricketers.append(bowlers)   # [['dhoni', 'rohit', 'kohli'], ['bumrah', 'shami', 'chahal']]
@@ -95,7 +95,7 @@ ls = [10,20,30,10,40,30,30]
 # print(choclates)
 
 #
-n= [10,5,20,3]
+# n= [10,5,20,3]
 # [3,5,10,20]   # ascending order --> from low to high
 # [20,10,5,3]   # descening order --> from high to low
 # print(n)
@@ -108,17 +108,17 @@ n= [10,5,20,3]
 # in list by default insertion order is preserved, if we want to sort the elements of list according to natural sorting order
 # then we should go for sort() function
 # n.sort()  --> to sort the values in ascending order
-n.sort(reverse=True)     #--> to sort the value in descedning order
+# n.sort(reverse=True)     #--> to sort the value in descedning order
 # n.reverse()
-print(n)
+# print(n)
 # For numbers --> Default natural soring order is Ascending order
 # For string -->  default natural soring order is Alphabetiacal Order
-s=["Grapes","Banana","Apple","Pineapple","Apbc"]
-s.sort()
-# s.sort(reverse=True)
-print(s)
-s.clear()   # all the elements it removes at a time
-print(s)
+# s=["Grapes","Banana","Apple","Pineapple","Apbc"]
+# s.sort()
+# # s.sort(reverse=True)
+# print(s)
+# s.clear()   # all the elements it removes at a time
+# print(s)
 # Note : To use sort(), it is compulsory list should contain only homegenious elements otherwise it will return TypeError
 
 
@@ -130,9 +130,98 @@ print(s)
 * *  
 *        --> 5
 '''
-for i in range(5):
-    if(i%2 == 0):
-        print("*")
-    else:
-        print("* *")
+# for i in range(5):
+#     if(i%2 == 0):
+#         print("*")
+#     else:
+#         print("* *")
     # for j in range
+
+# aliasing list objects
+# a=[10,20,30,40]
+# b=a
+# b.append(50)
+# b[1]=50
+# print(id(a))
+# print(id(b))
+# print(b)
+# print(a)
+
+# a=[10,20,30,40,50]
+# b=a[:]   # clone using slicing operator
+# b=a.copy()
+# print(a[:])
+# print(id(a))
+# print(id(b))
+# b.append(60)
+# b[3]=60
+# print(a)
+# print(b)
+
+# x=[10,20,30]
+# x=60
+# y=[40,50,60]
+# y=50
+# z=x+y
+# print(z)
+
+# x=[10,20,30]
+# print(x)
+# y=x*3
+# print(y)
+# ASCII
+# x=[]
+# y=["Apple",'Banana','"Apple",'Banana','Grapes'GrapeS']  # content
+# y=["Apple",'Grapes','Banana']  # order is missed
+# y=["Apple",'Banana','Grapes','Pineapple']
+# print(x==y)  # False
+# print(x!=y)  # True
+
+# whenerver we are using <,<=,>,>= between List objects, only first element will be considered
+# x=[10,20,30]
+# y=[40,50,60]
+# print(x>y)  # 10>40 False
+# print(x<y)  # 10<40  True
+# print(x<=y)  # 10<=40  True
+# print(x>=y)  # 10>=40  False
+
+
+#membership operators
+# a=[20,10,30,40]
+# if(60 in a):
+#     print("10 is available in a")
+# else:
+#     print("not available in a")
+# print(10 in a)   # True
+# print(10 not in a)   # True
+
+# nest_ls = [[10,20,30],[40,50,60],[70,[80,90]]]
+# print(nest_ls[1][1])
+# print(nest_ls[2][1][0])
+
+# a=[10,20,30]
+# a=[]
+#a.clear()
+#print(a)
+# a.sort()
+# print(a)
+# print(a[::-1])
+# a.sort(reverse=True)
+# print(a)
+
+
+# create a list with even numbers between 1 to 10
+# even_numbers=[]
+# for i in range(1,11):
+#     if(i%2==0):
+#         even_numbers.append(i)
+# print(even_numbers)
+# even_numbers = [i for i in range(1,11) if i%2==0]
+# **  -> exponential operator to find the powe
+#multiply = []
+# even_numbers=[]
+# for i in range(1,11): # 1,4,9,16,25,36,49,64,81,100
+#         multiply.append(i**2)
+# print(multiply)
+# multiple = [i**2 for i in range(1,11)]
+# print(multiple)
