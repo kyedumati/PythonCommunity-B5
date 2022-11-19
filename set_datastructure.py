@@ -35,7 +35,7 @@
 # print(s)
 
 #remove(x)  -->  It removes the specified value from the set, if the specified value is not present then we will KeyError
-s={10,20,30}
+# s={10,20,30}
 # s.remove(10)
 # print(s)
 # s.remove(60)
@@ -94,3 +94,13 @@ s={10,20,30}
 # print(l)
 # s=set(l)
 # print(s)
+
+x="hello java"
+
+# z=" ".join([i*2 for i in x.split()])
+z=""
+for i in x.split():
+   z=i[0].swapcase()
+
+# z=[i[0].swapcase() for i in x.split()]
+print(z)

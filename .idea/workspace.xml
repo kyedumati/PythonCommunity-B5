@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbe3547b-540c-4cbf-bbf2-73bdff0a11f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tuple_datastructure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/ConnectMysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/DbUtil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/InsertMysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/SelectQuery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/UpdateMysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict_datastructure.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/String_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/running_notes/List.png" beforeDir="false" afterPath="$PROJECT_DIR$/running_notes/List.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/running_notes/String.png" beforeDir="false" afterPath="$PROJECT_DIR$/running_notes/String.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set_datastructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/set_datastructure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +38,34 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.tuple_datastructure">
-    <configuration name="String_handling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Kasi\Trainings\Python\PythonCommunity-5\database" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ConnectMysql (1)">
+    <configuration name="ConnectMysql (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCommunity-5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/ConnectMysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConnectMysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCommunity-5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_handling.py" />
+      <option name="SCRIPT_NAME" value="C:\Kasi\Trainings\Python\PythonCommunity-5\database\ConnectMysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iterative_statements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertMysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCommunity-5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterative_statements.py" />
+      <option name="SCRIPT_NAME" value="C:\Kasi\Trainings\Python\PythonCommunity-5\database\InsertMysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_datastructure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectQuery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCommunity-5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_datastructure.py" />
+      <option name="SCRIPT_NAME" value="C:\Kasi\Trainings\Python\PythonCommunity-5\database\SelectQuery.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,28 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonCommunity-5" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/train_program.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tuple_datastructure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="UpdateMysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCommunity-5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple_datastructure.py" />
+      <option name="SCRIPT_NAME" value="C:\Kasi\Trainings\Python\PythonCommunity-5\database\UpdateMysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tuple_datastructure" />
-        <item itemvalue="Python.String_handling" />
-        <item itemvalue="Python.list_datastructure" />
-        <item itemvalue="Python.train_program" />
-        <item itemvalue="Python.iterative_statements" />
+        <item itemvalue="Python.ConnectMysql (1)" />
+        <item itemvalue="Python.SelectQuery" />
+        <item itemvalue="Python.UpdateMysql" />
+        <item itemvalue="Python.InsertMysql" />
+        <item itemvalue="Python.ConnectMysql" />
       </list>
     </recent_temporary>
   </component>
@@ -197,15 +205,41 @@
       <option name="project" value="LOCAL" />
       <updated>1664421128359</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="string and tuple">
+      <created>1664772241611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664772241611</updated>
+    </task>
+    <task id="LOCAL-00007" summary="string and tuple">
+      <created>1664853073674</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664853073674</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iterative statements" />
     <MESSAGE value="iterative statements3" />
     <MESSAGE value="list datastructure" />
     <MESSAGE value="string" />
-    <option name="LAST_COMMIT_MESSAGE" value="string" />
+    <MESSAGE value="string and tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="string and tuple" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="13" key="#keyword" timestamp="1662087078369">
@@ -216,50 +250,54 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="300" y="82" key="#xdebugger.evaluate/0.0.1366.720@0.0.1366.720" timestamp="1663727198506" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1664421126640">
+    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2" timestamp="1664853072852">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1664421126640" />
-    <state width="1345" height="222" key="GridCell.Tab.0.bottom" timestamp="1664772228837">
+    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1664853072852" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1665110984695">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1664772228837" />
-    <state width="1345" height="222" key="GridCell.Tab.0.center" timestamp="1664772228837">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1665110984695" />
+    <state width="1345" height="261" key="GridCell.Tab.0.bottom" timestamp="1668828528142">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1664772228837" />
-    <state width="1345" height="222" key="GridCell.Tab.0.left" timestamp="1664772228836">
+    <state width="1345" height="261" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1668828528142" />
+    <state width="1345" height="261" key="GridCell.Tab.0.center" timestamp="1668828528141">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1664772228836" />
-    <state width="1345" height="222" key="GridCell.Tab.0.right" timestamp="1664772228837">
+    <state width="1345" height="261" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1668828528141" />
+    <state width="1345" height="261" key="GridCell.Tab.0.left" timestamp="1668828528140">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="222" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1664772228837" />
-    <state width="1345" height="201" key="GridCell.Tab.1.bottom" timestamp="1664506116629">
+    <state width="1345" height="261" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1668828528140" />
+    <state width="1345" height="261" key="GridCell.Tab.0.right" timestamp="1668828528142">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1664506116629" />
-    <state width="1345" height="201" key="GridCell.Tab.1.center" timestamp="1664506116629">
+    <state width="1345" height="261" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1668828528142" />
+    <state width="1345" height="201" key="GridCell.Tab.1.bottom" timestamp="1665110469315">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1664506116629" />
-    <state width="1345" height="201" key="GridCell.Tab.1.left" timestamp="1664506116629">
+    <state width="1345" height="201" key="GridCell.Tab.1.bottom/0.0.1366.720@0.0.1366.720" timestamp="1665110469315" />
+    <state width="1345" height="201" key="GridCell.Tab.1.center" timestamp="1665110469315">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1664506116629" />
-    <state width="1345" height="201" key="GridCell.Tab.1.right" timestamp="1664506116629">
+    <state width="1345" height="201" key="GridCell.Tab.1.center/0.0.1366.720@0.0.1366.720" timestamp="1665110469315" />
+    <state width="1345" height="201" key="GridCell.Tab.1.left" timestamp="1665110469315">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1664506116629" />
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1664421130546">
+    <state width="1345" height="201" key="GridCell.Tab.1.left/0.0.1366.720@0.0.1366.720" timestamp="1665110469315" />
+    <state width="1345" height="201" key="GridCell.Tab.1.right" timestamp="1665110469315">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1664421130546" />
-    <state x="391" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1664503081323">
+    <state width="1345" height="201" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1665110469315" />
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1664853206888">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="391" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1664503081323" />
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1664853206888" />
+    <state x="391" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1665110969445">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="391" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1665110969445" />
     <state x="252" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1663900308888">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
