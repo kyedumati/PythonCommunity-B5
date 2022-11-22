@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbe3547b-540c-4cbf-bbf2-73bdff0a11f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/ConnectMysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/DbUtil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/InsertMysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/SelectQuery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/UpdateMysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict_datastructure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/EmployeeManagement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_project/firstapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/set_datastructure.py" beforeDir="false" afterPath="$PROJECT_DIR$/set_datastructure.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
       <recent name="C:\Kasi\Trainings\Python\PythonCommunity-5\database" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ConnectMysql (1)">
+  <component name="RunManager" selected="Python.EmployeeManagement">
     <configuration name="ConnectMysql (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCommunity-5" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ConnectMysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EmployeeManagement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCommunity-5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Kasi\Trainings\Python\PythonCommunity-5\database\ConnectMysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/EmployeeManagement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.EmployeeManagement" />
         <item itemvalue="Python.ConnectMysql (1)" />
         <item itemvalue="Python.SelectQuery" />
         <item itemvalue="Python.UpdateMysql" />
         <item itemvalue="Python.InsertMysql" />
-        <item itemvalue="Python.ConnectMysql" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664853073674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Database programming">
+      <created>1668828557502</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668828557502</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +242,8 @@
     <MESSAGE value="list datastructure" />
     <MESSAGE value="string" />
     <MESSAGE value="string and tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="string and tuple" />
+    <MESSAGE value="Database programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database programming" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="13" key="#keyword" timestamp="1662087078369">
@@ -250,30 +254,30 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="300" y="82" key="#xdebugger.evaluate/0.0.1366.720@0.0.1366.720" timestamp="1663727198506" />
-    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2" timestamp="1664853072852">
+    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2" timestamp="1669087066296">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1664853072852" />
+    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1669087066296" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1665110984695">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1665110984695" />
-    <state width="1345" height="261" key="GridCell.Tab.0.bottom" timestamp="1668828528142">
+    <state width="1345" height="419" key="GridCell.Tab.0.bottom" timestamp="1669087027432">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="261" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1668828528142" />
-    <state width="1345" height="261" key="GridCell.Tab.0.center" timestamp="1668828528141">
+    <state width="1345" height="419" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1669087027432" />
+    <state width="1345" height="419" key="GridCell.Tab.0.center" timestamp="1669087027432">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="261" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1668828528141" />
-    <state width="1345" height="261" key="GridCell.Tab.0.left" timestamp="1668828528140">
+    <state width="1345" height="419" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1669087027432" />
+    <state width="1345" height="419" key="GridCell.Tab.0.left" timestamp="1669087027431">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="261" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1668828528140" />
-    <state width="1345" height="261" key="GridCell.Tab.0.right" timestamp="1668828528142">
+    <state width="1345" height="419" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1669087027431" />
+    <state width="1345" height="419" key="GridCell.Tab.0.right" timestamp="1669087027432">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1345" height="261" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1668828528142" />
+    <state width="1345" height="419" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1669087027432" />
     <state width="1345" height="201" key="GridCell.Tab.1.bottom" timestamp="1665110469315">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
@@ -290,10 +294,10 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1345" height="201" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1665110469315" />
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1664853206888">
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1668828560197">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1664853206888" />
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1668828560197" />
     <state x="391" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1665110969445">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
