@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbe3547b-540c-4cbf-bbf2-73bdff0a11f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/EmployeeManagement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_project/firstapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_project/firstapp/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/firstapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/firstapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/firstapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/firstapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/firstapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/firstapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/running_notes/Django.png" beforeDir="false" afterPath="$PROJECT_DIR$/running_notes/Django.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668828557502</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Database programming and Django">
+      <created>1669087067896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669087067896</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Database programming and Django">
+      <created>1669087080450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669087080450</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +261,8 @@
     <MESSAGE value="string" />
     <MESSAGE value="string and tuple" />
     <MESSAGE value="Database programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database programming" />
+    <MESSAGE value="Database programming and Django" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database programming and Django" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="13" key="#keyword" timestamp="1662087078369">
@@ -254,10 +273,10 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="300" y="82" key="#xdebugger.evaluate/0.0.1366.720@0.0.1366.720" timestamp="1663727198506" />
-    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2" timestamp="1669087066296">
+    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2" timestamp="1669087079585">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1669087066296" />
+    <state x="237" y="37" width="666" height="538" key="CommitChangelistDialog2/0.0.1366.720@0.0.1366.720" timestamp="1669087079585" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1665110984695">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
@@ -294,10 +313,10 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1345" height="201" key="GridCell.Tab.1.right/0.0.1366.720@0.0.1366.720" timestamp="1665110469315" />
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1668828560197">
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2" timestamp="1669087089426">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1668828560197" />
+    <state x="62" y="79" key="Vcs.Push.Dialog.v2/0.0.1366.720@0.0.1366.720" timestamp="1669087089426" />
     <state x="391" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1665110969445">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
